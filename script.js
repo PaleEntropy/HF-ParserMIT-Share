@@ -5,8 +5,8 @@
 // @description  Extract data from links and save to Excel
 // @author       Avito Market Intelligence HR Team
 // @match        *://[INSERT].huntflow.ru/*
-// @updateURL    https://github.com/PaleEntropy/HF-ParserMIT-Share/refs/heads/main/script
-// @downloadURL  https://github.com/PaleEntropy/HF-ParserMIT-Share/refs/heads/main/script
+// @updateURL    https://github.com/PaleEntropy/HF-ParserMIT-Share/refs/heads/main/script.js
+// @downloadURL  https://github.com/PaleEntropy/HF-ParserMIT-Share/refs/heads/main/script.js
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
