@@ -4,7 +4,7 @@
 // @version      0.95
 // @description  Extract data from links and save to Excel
 // @author       Avito Market Intelligence HR Team
-// @match        ...
+// @match        *://[INSERT].huntflow.ru/*
 // @updateURL    https://...
 // @downloadURL  https://...
 // @grant        GM_addStyle
@@ -12,7 +12,7 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      *
-// @require      ...
+// @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js
 // ==/UserScript==
 
 (function() {
